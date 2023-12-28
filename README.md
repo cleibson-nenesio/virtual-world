@@ -2,6 +2,12 @@
 
 Este projeto foi desenvolvido como parte de um tutorial do canal freeCodeCamp.org e é uma representação de mini cidades virtuais com efeitos de fake 3D. O projeto utiliza a lógica de grafos para criar ruas e construções, proporcionando uma experiência visual interessante no navegador.
 
+## Screenshots
+
+![Idle World](https://github.com/cleibson-nenesio/virtual-world/assets/76183424/164e7659-8086-4694-9eb1-e3f00a7b538d)
+
+![Choosing Markings](https://github.com/cleibson-nenesio/virtual-world/assets/76183424/013b20f1-7808-489c-b5fe-40992372d4e0)
+
 ## Funcionalidades Principais
 
 - Geração de cidades virtuais com base em grafos.
@@ -19,7 +25,7 @@ Este projeto foi desenvolvido como parte de um tutorial do canal freeCodeCamp.or
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/virtual-world.git
+    git clone https://github.com/cleibson-nenesio/virtual-world.git
     ```
 
 2. Abra o arquivo `index.html` em um navegador compatível e divirta-se.
